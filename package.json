@@ -1,6 +1,6 @@
 {
   "author": "Zach Carter <zach@carter.name> (http://zaa.ch)",
-  "name": "jsonlint",
+  "name": "rinu-jsonlint",
   "description": "Validate JSON",
   "keywords": [
     "json",
@@ -8,14 +8,14 @@
     "lint",
     "jsonlint"
   ],
-  "version": "1.6.3",
+  "version": "1.6.4",
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/zaach/jsonlint.git"
+    "url": "git://github.com/rinu/jsonlint.git"
   },
   "bugs": {
-    "url": "http://github.com/zaach/jsonlint/issues"
+    "url": "https://github.com/rinu/jsonlint/issues"
   },
   "main": "lib/jsonlint.js",
   "bin": {
@@ -36,6 +36,6 @@
   "scripts": {
     "test": "node test/all-tests.js"
   },
-  "homepage": "http://zaach.github.com/jsonlint/",
+  "homepage": "https://github.com/rinu/jsonlint/",
   "optionalDependencies": {}
 }
